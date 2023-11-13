@@ -27,7 +27,7 @@ La practica consiste en un despliegue de un servidor web **Nginx** en un cluster
 Para evitar el conflicto de repetición de variables y presentar una mejor estructuración se ha estructurado en diferentes módulos para cada recurso y un directorio **root** donde están los archivos raíz para desplegar la practica.
 
 
-![Árbol de directorios]( ./pics/Estructura_AWS_Terraform.png "Tree Files")
+![Árbol de directorios]( ./pics/AWS_Terraform_Tree.png "Tree Files")
 
 ## Instrucciones de despliegue
 
